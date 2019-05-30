@@ -9,6 +9,7 @@ permalink: /docs/en-US/changelog/
 ### Bug Fixes
 
  - Fixed an issue with permissions in files copied to the home folder
+ - Fixed the database shared folder for Hyper-V and Parallels
 
 ## 3.0.0 ( 17 May 2019 )
 
